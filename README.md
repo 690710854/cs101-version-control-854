@@ -1,1 +1,5 @@
-# cs101-version-control-854
+# My CS Profile
+
+## About Me
+- Name: Varamet Thanthawe
+- Major: Computer science
